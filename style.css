@@ -10,6 +10,7 @@
 body {
     background-color: #2C2F33;
     text-align: center;
+    
 }
 
 p {
@@ -33,4 +34,12 @@ button {
 
 button:hover {
     background-color: #5865F2;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
