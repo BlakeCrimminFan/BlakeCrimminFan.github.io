@@ -1,0 +1,36 @@
+@font-face {
+    font-family: jetbrainsMono;
+    src: url('https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Regular.woff2');
+}
+
+:root {
+    --mainFont: jetbrainsMono
+}
+
+body {
+    background-color: #2C2F33;
+    text-align: center;
+}
+
+p {
+    font-family: var(--mainFont);
+    color: #FFFFFF;
+}
+
+h1 {
+    font-family: var(--mainFont);
+    color: #FFFFFF;
+}
+
+button {
+    font-family: var(--mainFont);
+    font-size: large;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    transition: 0.25s;
+}
+
+button:hover {
+    background-color: #5865F2;
+}
