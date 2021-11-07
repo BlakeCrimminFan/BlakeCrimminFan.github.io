@@ -23,6 +23,11 @@ h1 {
     color: #FFFFFF;
 }
 
+h3 {
+    font-family: var(--mainFont);
+    color: #FFFFFF;
+}
+
 button {
     font-family: var(--mainFont);
     font-size: large;
@@ -42,4 +47,21 @@ iframe {
     margin-right: auto;
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+a {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-decoration: none;
+    font-family: var(--mainFont);
+    font-size: large;
+    color: #2C2F33;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+a:hover {
+    background-color: #5865F2;
 }
