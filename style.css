@@ -64,16 +64,11 @@ a:hover {
     background-color: #5865F2;
 }
 
-#people {
-    margin-left: 15em;
-    margin-right: 15em;
-}
-
 #contributors {
     overflow: scroll;
     overflow-x: hidden;
     margin-left: auto;
     margin-right: auto;
-    width: 25em;
-    height: 5em;
+    width: 25rem;
+    height: 5rem;
 }
