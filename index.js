@@ -3,7 +3,9 @@ const blakesQuotes = [
     "Sugoma Nuts", 
     `Blake's closest friend Ligma quotes: 'Blake loves Rose'`, 
     "That shirt looks becoming on you, if I was on you I'd becoming too", 
-    "I always loved Ellie. It's a shame I didn't stay with her, I still wank though!"
+    "I always loved Ellie. It's a shame I didn't stay with her, I still do the funny though!",
+    "If having Sus Ecks Xfactor was a job then I would be the manager",
+    "My Mcdonalds order would be the girl I like and raul on the side"
 ]
 
 function randomNumber(maxNumber) {
