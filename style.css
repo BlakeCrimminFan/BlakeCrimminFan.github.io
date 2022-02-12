@@ -49,17 +49,6 @@ iframe {
     margin-bottom: 1em;
 }
 
-a {
-    margin-left: 1em;
-    margin-right: 1em;
-    text-decoration: none;
-    font-family: var(--mainFont);
-    font-size: 1.2em;
-    color: #2C2F33;
-    background-color: #FFFFFF;
-    border-radius: 8px;
-}
-
 a:hover {
     background-color: #5865F2;
 }
@@ -71,4 +60,27 @@ a:hover {
     margin-right: auto;
     width: 25rem;
     height: 5rem;
+}
+
+#people {
+    width: 25em;
+    margin: auto;
+}
+
+.peopleButton {
+    margin-left: 1em;
+    margin-right: 1em;
+    text-decoration: none;
+    font-family: var(--mainFont);
+    font-size: 1.2em;
+    color: #2C2F33;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+.contributorLinks {
+    text-decoration: none;
+    font-family: var(--mainFont);
+    color: #8E8E8E;
+    border-radius: 8px;
 }
